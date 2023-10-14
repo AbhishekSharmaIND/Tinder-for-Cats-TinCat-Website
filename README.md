@@ -1,2 +1,2 @@
 # Tinder-for-Cats-TinCat-Website
-USING BOOTSTRAP AND JAVASCRIPT
+USING HTML, CSS and Bootstrap
